@@ -51,7 +51,7 @@ Currently, I serve as a **Compliance Consultant at Lloyds Banking Group**, where
 ![ISO 27001](https://img.shields.io/badge/ISO%2027001-Lead%20Auditor-00d9ff?style=for-the-badge&logo=icloud&logoColor=white&labelColor=0d1117)
 ![NIST CSF](https://img.shields.io/badge/NIST%20CSF-Practitioner-4a90e2?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0d1117)
 ![PCI-DSS](https://img.shields.io/badge/PCI--DSS-Compliant-ff6b35?style=for-the-badge&logo=stripe&logoColor=white&labelColor=0d1117)
-![GDPR](https://img.shields.io/badge/GDPR-Expert-2ea44f?style=for-the-badge&logo=eu&logoColor=white&labelColor=0d1117)
+![GDPR](https://img.shields.io/badge/GDPR-Expert-ffffff?style=for-the-badge&logo=shield&logoColor=00d9ff&labelColor=0d1117&color=0d1117)
 ![SOX](https://img.shields.io/badge/Sarbanes--Oxley-SOX-e74c3c?style=for-the-badge&logo=govuk&logoColor=white&labelColor=0d1117)
 ![ISO 9001](https://img.shields.io/badge/ISO%209001-Quality-8b5cf6?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0d1117)
 ![DDA](https://img.shields.io/badge/DDA-Compliance-f59e0b?style=for-the-badge&logoColor=black&labelColor=0d1117)
