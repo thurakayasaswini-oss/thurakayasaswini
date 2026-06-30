@@ -10,54 +10,48 @@
 
 ---
 
-## 🧑‍💼 About Me
+## About Me
 
-I am a **Cybersecurity Compliance Consultant** with **7 years of experience** in governance, risk, and compliance (GRC) across UK Tier-1 financial institutions. Currently at **Lloyds Banking Group**, I lead ISO 27001 compliance programmes covering 500+ security controls and drive regulatory alignment across GDPR, PCI-DSS, NIST CSF, and FCA frameworks.
+I am a Cybersecurity Compliance Consultant with 7 years of experience in governance, risk, and compliance (GRC) across UK Tier-1 financial institutions. Currently at Lloyds Banking Group, I lead ISO 27001 compliance programmes covering 500+ security controls and drive regulatory alignment across GDPR, PCI-DSS, NIST CSF, and FCA frameworks.
 
-- 🏦 **Currently:** Compliance Consultant at Lloyds Banking Group — leading ISO 27001 management systems and GRC programmes
-- 🛡️ **Certified:** ISO 27001 Lead Auditor | CISM | PCI-DSS | NIST CSF Practitioner
-- 📋 **Expert in:** GDPR, Sarbanes-Oxley, DDA Compliance, Continuous Controls Monitoring & Compliance Reporting
-- 🌐 **Domain:** UK Financial Services — securing Tier-1 financial institutions including Barclays & Lloyds Banking Group
+- Currently: Compliance Consultant at Lloyds Banking Group
+- Certified: ISO 27001 Lead Auditor, CISM, PCI-DSS, NIST CSF Practitioner
+- Expert in: GDPR, Sarbanes-Oxley, DDA Compliance, Continuous Controls Monitoring
+- Domain: UK Financial Services - Barclays and Lloyds Banking Group
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## Tech Stack
 
-### 🔐 Compliance Frameworks & Standards
+### Compliance Frameworks
 ![ISO 27001](https://img.shields.io/badge/ISO%2027001-Lead%20Auditor-blue?style=for-the-badge&logo=icloud&logoColor=white)
 ![NIST CSF](https://img.shields.io/badge/NIST%20CSF-Practitioner-darkblue?style=for-the-badge&logo=databricks&logoColor=white)
 ![PCI-DSS](https://img.shields.io/badge/PCI--DSS-Compliant-orange?style=for-the-badge&logo=stripe&logoColor=white)
 ![GDPR](https://img.shields.io/badge/GDPR-Expert-green?style=for-the-badge&logo=eu&logoColor=white)
 ![SOX](https://img.shields.io/badge/Sarbanes--Oxley-SOX-red?style=for-the-badge&logo=govuk&logoColor=white)
 ![ISO 9001](https://img.shields.io/badge/ISO%209001-Quality-blueviolet?style=for-the-badge&logo=checkmarx&logoColor=white)
-![DDA](https://img.shields.io/badge/DDA-Compliance-yellow?style=for-the-badge&logo=gov.uk&logoColor=black)
 
-### 🧰 GRC Tools & Platforms
+### GRC Tools
 ![OneTrust](https://img.shields.io/badge/OneTrust-GRC%20Platform-1f1f1f?style=for-the-badge&logo=onetrust&logoColor=green)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-GRC-00AE87?style=for-the-badge&logo=servicenow&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-Project%20Tracking-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-Documentation-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-Tracking-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-Docs-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-Collaboration-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
 
-### 📊 Reporting & Analytics
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-KPI%20Dashboards-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+### Analytics
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-KPI%20Dashboards-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-Suite-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasaswini%20Thuraka-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasaswini-thuraka-9779bb388/)
 [![GitHub](https://img.shields.io/badge/GitHub-thurakayasaswini--oss-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thurakayasaswini-oss)
 
-</div>
-
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -70,7 +64,7 @@ I am a **Cybersecurity Compliance Consultant** with **7 years of experience** in
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -80,18 +74,12 @@ I am a **Cybersecurity Compliance Consultant** with **7 years of experience** in
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
-<div align="center">
+Open to Cybersecurity Consulting, GRC Advisory, and ISO 27001 Auditing opportunities in UK Financial Services.
 
-💼 Open to **Cybersecurity Consulting**, **GRC Advisory**, and **ISO 27001 Auditing** opportunities in UK Financial Services.
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasaswini-thuraka-9779bb388/)
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasaswini-thuraka-9779bb388/)
-
----
-
-*"Security is not a product, but a process — and compliance is the foundation of trust."*
+*"Security is not a product, but a process - and compliance is the foundation of trust."*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00D9FF&height=100&section=footer)
-
-</div>
